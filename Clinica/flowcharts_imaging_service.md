@@ -1,3 +1,5 @@
+```mermaid
+mindmap
 flowchart TD
 
 A[Start ITF Data Collection] --> B[Define Inventory Scope]
